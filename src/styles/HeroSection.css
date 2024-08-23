@@ -1,0 +1,26 @@
+/* src/styles/HeroSection.css */
+.hero-section {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #e0f7fa;
+}
+
+.hero-section h1 {
+    font-size: 48px;
+    color: #00796b;
+}
+
+.hero-section p {
+    font-size: 18px;
+    color: #004d40;
+}
+
+.hero-section button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

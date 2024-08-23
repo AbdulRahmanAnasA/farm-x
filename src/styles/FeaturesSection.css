@@ -1,0 +1,18 @@
+/* src/styles/FeaturesSection.css */
+.features-section {
+    padding: 60px 20px;
+    background-color: #f1f8e9;
+    text-align: center;
+}
+
+.features-section h2 {
+    font-size: 32px;
+    color: #33691e;
+    margin-bottom: 40px;
+}
+
+.features-section .feature {
+    margin: 20px 0;
+    font-size: 20px;
+    color: #558b2f;
+}
